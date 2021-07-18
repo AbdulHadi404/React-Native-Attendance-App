@@ -13,9 +13,15 @@ This is the second module of my FYP
 
 <table>
   <tr>
+    <td align="center">
       <img src="https://live.staticflickr.com/65535/51320461663_601047c0a9_z.jpg" width="253" height="490" alt="Main">
+     </td>
+    <td align="center">
       <img src="https://live.staticflickr.com/65535/51319521277_ed492a89eb_z.jpg" width="253" height="490" alt="SignIn">
+     </td>
+     <td align="center">
       <img src="https://live.staticflickr.com/65535/51319521262_1e13cbfbb6_z.jpg" width="253" height="490" alt="Menu">
+      </td>
     </tr>
     </table>
     
