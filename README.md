@@ -33,7 +33,7 @@ This is the second module of my FYP
      <td align="center">
       <img src="https://live.staticflickr.com/65535/51319521692_c194a48b28_z.jpg" alt="SignUp">
   </td>
-       <td align="center">
+    <td align="center">
       <img src="https://live.staticflickr.com/65535/51320977334_0a7ce22a90_w.jpg" alt="Admin">
     </td>
     </tr>
@@ -48,8 +48,8 @@ This is the second module of my FYP
     </td>
      <td align="center">
       <img src="https://live.staticflickr.com/65535/51320461853_ca29ddf616_w.jpg" alt="SignUp">
-  </td>
-       <td align="center">
+    </td>
+    <td align="center">
       <img src="https://live.staticflickr.com/65535/51321260940_04789dddbf_w.jpg" alt="Admin">
     </td>
     </tr>
