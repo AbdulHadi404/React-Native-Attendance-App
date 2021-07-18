@@ -7,6 +7,15 @@ This is the second module of my FYP
  - [3rd Module](https://github.com/AbdulHadi404/RFID-Attendance)
  - [Track Server](https://github.com/AbdulHadi404/track-server)
 
+## Implementaion
+Built on React Native Framework along with Express.js, Mongoose and MongoDB.
+    
+## Wroking
+* Only Admin can add News Feed
+* Only Admin can check Face/Mask Attendance
+* Both can view News Feed
+* Both can check RFID Attendance
+
 ## Application Interface (Admin)
 
 <table>
