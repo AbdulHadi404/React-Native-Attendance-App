@@ -11,27 +11,13 @@ This is the second module of my FYP
 <table>
   <tr>
     <td align="center">
-       <a href="https://www.flickr.com/photos/193485149@N02/51320461663/in/dateposted-public/" target="_blank" title="LogIn">
       <img src="https://live.staticflickr.com/65535/51320461663_601047c0a9_z.jpg " alt="Main">
-      </a>
     </td>
- </tr>
- </table>
-<table>
- <tr>
      <td align="center">
-       <a href="https://www.flickr.com/photos/193485149@N02/51319521277/in/dateposted-public/" target="_blank" title="SignUp">
       <img src="https://live.staticflickr.com/65535/51319521277_ed492a89eb_z.jpg " alt="SignUp">
-      </a>
-  </tr>
- </table>
-<table>
- <tr>
   </td>
        <td align="center">
-       <a href="https://www.flickr.com/photos/193485149@N02/51319521262/in/dateposted-public/" target="_blank" title="Admin">
       <img src="https://live.staticflickr.com/65535/51319521262_1e13cbfbb6_z.jpg " alt="Admin">
-      </a>
     </td>
     </tr>
     </table>
