@@ -8,6 +8,7 @@ This is the second module of my FYP
  - [Track Server](https://github.com/AbdulHadi404/track-server)
 
 ## Application Interface (Admin)
+
 <table>
   <tr>
     <td align="center">
@@ -23,6 +24,7 @@ This is the second module of my FYP
     </table>
     
 ## Application Interface (Student)
+
 <table>
   <tr>
     <td align="center">
@@ -38,6 +40,7 @@ This is the second module of my FYP
     </table>
     
 ## Application Interface (Newsfeed)
+
 <table>
   <tr>
     <td align="center">
@@ -51,7 +54,9 @@ This is the second module of my FYP
     </td>
     </tr>
     </table>
+    
 ## Application Interface (Attendance)
+
 <table>
   <tr>
     <td align="center">
@@ -61,7 +66,7 @@ This is the second module of my FYP
       <img src="https://live.staticflickr.com/65535/51320260216_fa82e267de_w.jpg" alt="Admin">
     </td>
     </tr>
-    </table>
+  </table>
     
 ## Wroking
 LBPH, Fisher and Eigen Faces for Face Recognition and Custom HAAR-Cascade for Mask Detection.
