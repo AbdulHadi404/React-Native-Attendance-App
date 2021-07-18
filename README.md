@@ -7,8 +7,6 @@ This is the second module of my FYP
  - [3rd Module](https://github.com/AbdulHadi404/RFID-Attendance)
  - [Track Server](https://github.com/AbdulHadi404/track-server)
 
-
-
 ## Application Interface (Admin)
 
 <table>
@@ -29,13 +27,13 @@ This is the second module of my FYP
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51321261070_1a375f3e67_z.jpg" width="253" height="490" alt="SignUp">
     </td>
-     <td align="center">
+     <td>
       <img src="https://live.staticflickr.com/65535/51319521692_c194a48b28_z.jpg" width="253" height="490" alt="SignIn">
   </td>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51320977334_0a7ce22a90_w.jpg" width="253" height="490" alt="Menu">
     </td>
     </tr>
@@ -45,13 +43,13 @@ This is the second module of my FYP
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51319521532_40fd3d15db_w.jpg" width="253" height="490" alt="Create News">
     </td>
-     <td align="center">
+     <td>
       <img src="https://live.staticflickr.com/65535/51320461853_ca29ddf616_w.jpg" width="253" height="490" alt="News List">
     </td>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51321260940_04789dddbf_w.jpg" width="253" height="490" alt="News List Discription">
     </td>
     </tr>
@@ -61,10 +59,10 @@ This is the second module of my FYP
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51319521867_1d9cc19208_w.jpg" width="253" height="490" alt="RFID Attendance">
     </td>
-    <td align="center">
+    <td>
       <img src="https://live.staticflickr.com/65535/51320260216_fa82e267de_w.jpg" width="253" height="490" alt="Face And Mask Attendance">
     </td>
     </tr>
