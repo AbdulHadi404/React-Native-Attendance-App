@@ -21,7 +21,7 @@ Built on React Native Framework along with Express.js, Mongoose and MongoDB.
 <table>
   <tr>
     <td>
-      <img src="https://live.staticflickr.com/65535/51320461663_601047c0a9_z.jpg" width="253" height="490" alt="Main">
+      <img src="https://live.staticflickr.com/65535/51320461663_601047c0a9_z.jpg" width="153" height="290" alt="Main">
      </td>
     <td>
       <img src="https://live.staticflickr.com/65535/51319521277_ed492a89eb_z.jpg" width="253" height="490" alt="SignIn">
