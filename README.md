@@ -57,10 +57,7 @@ This is the second module of my FYP
     <td align="center">
       <img src="https://live.staticflickr.com/65535/51319521867_1d9cc19208_w.jpg" alt="Main">
     </td>
-     <td align="center">
-      <img src="https://live.staticflickr.com/65535/51319521277_ed492a89eb_z.jpg " alt="SignUp">
-  </td>
-       <td align="center">
+    <td align="center">
       <img src="https://live.staticflickr.com/65535/51320260216_fa82e267de_w.jpg" alt="Admin">
     </td>
     </tr>
